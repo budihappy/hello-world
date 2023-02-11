@@ -11,7 +11,7 @@
     <input type="text" placeholder="Enter Full Address" name="Address" id="Address" required>
     <br>
  
-    <label for="mobile"><b>Enter mobile HP</b></label>
+    <label for="mobile"><b>Enter mobile HPxxx </b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
